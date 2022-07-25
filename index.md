@@ -1,6 +1,6 @@
 ## Welcome to axiuci test
 
-You can get https://github.com/axiuci/axiuci_pan到达axiuci's pan
+You can get https://github.com/axiuci/axiuci_pan 到达axiuci's pan
 
 ### 点view code即可查看资源
 ### Go to file查看所有文件
